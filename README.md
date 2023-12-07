@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dark1030
 - 👀 I’m interested in Full stack web development 
-- 🌱 I’m currently learning Front end development 
+- 🌱 I’m currently working as a freelance web developer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me poovarasanarumugam1030@gmail.com
 
